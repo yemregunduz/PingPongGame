@@ -1,1 +1,1 @@
-I created a basic ing pong game to improve myself
+I created a basic ping pong game to improve myself
